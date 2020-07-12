@@ -1,4 +1,4 @@
-# Deamnd Forecasting Hacakthon analytics Vidhya
+# Demand Forecasting Hacakthon analytics Vidhya
 
 
 ##  Problem statement
